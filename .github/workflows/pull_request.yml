@@ -5,7 +5,7 @@ on: pull_request
 
 jobs:
   terraform-check:
-    name: black
+    name: terraform validation
     runs-on: ubuntu-latest
     defaults:
       run:

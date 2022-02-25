@@ -8,7 +8,7 @@ on:
 
 jobs:
   terraform-deploy:
-    name: black
+    name: terraform deploy
     runs-on: ubuntu-latest
     defaults:
       run:
