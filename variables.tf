@@ -1,4 +1,4 @@
 # Variables
 variable "myregion" {
-    default = "eu-central-1"
+  default = "eu-central-1"
 }
